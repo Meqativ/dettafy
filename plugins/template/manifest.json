@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "id": "0"
         }
     ],
     "main": "src/index.ts",
